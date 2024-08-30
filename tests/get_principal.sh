@@ -1,5 +1,5 @@
 # Number of users to create
-NUM_USERS=50
+NUM_USERS=100
 
 # Path to Project1 directory
 PROJECT1_DIR="/home/harman/genun_certification/tests"
